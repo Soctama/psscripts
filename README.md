@@ -1,6 +1,6 @@
 # Random PowerShell Work
 
-[![Donate](./donate.png)](https://www.paypal.me/soctama)
+[![Donate](./donate2.png)](https://www.paypal.me/soctama)
 
 > If you get some use out of my scripts, drop me a few bucks.
 
