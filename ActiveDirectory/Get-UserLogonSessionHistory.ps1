@@ -11,7 +11,7 @@
 	None. You cannot pipe objects to Get-ActiveDirectoryUserActivity.ps1.
 .OUTPUTS
 	None. If successful, this script does not output anything.
-#>
+##>
 [CmdletBinding()]
 param
 (
