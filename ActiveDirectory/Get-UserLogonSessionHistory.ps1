@@ -1,4 +1,4 @@
-﻿<#	
+﻿<##	
 .SYNOPSIS
 	This script finds all logon, logoff and total active session times of all users on all computers specified. For this script
 	to function as expected, the advanced AD policies; Audit Logon, Audit Logoff and Audit Other Logon/Logoff Events must be
